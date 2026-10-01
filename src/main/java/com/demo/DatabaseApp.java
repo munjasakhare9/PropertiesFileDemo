@@ -18,7 +18,7 @@ public class DatabaseApp {
 		System.out.println("Username: " + userName);
 		System.out.println("Password: " + password);
 		System.out.println("Driver: " + driver);// null
-
+		
 		fis.close();
 	}
 }
